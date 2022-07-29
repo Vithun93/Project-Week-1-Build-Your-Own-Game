@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*[Vithushan]*
 
-*[Your Cohort, Campus & Date]*
+*[Python Game, Iron Hack, 29/07/2022]*
 
 ## Content
 - [Project Description](#project-description)
